@@ -6,7 +6,7 @@
 .container {
             border: 1px solid grey;
             width: 400px;
-            height: 800px;
+            height: 1500px;
             }
 
 .div_1 {
@@ -84,6 +84,113 @@
 }
 
 .div_6 span {
+    margin-left: 145px;
+}
+
+.div_7 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid grey;
+}
+
+.div_7 span {
+    margin-left: 130px;
+}
+
+.div_8 {
+    border-bottom: 2px solid black;
+}
+
+.div_9 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid black;     
+}
+
+.div_9 span {
     margin-left: 140px;
 }
+
+.div_10 {
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 3px solid black;
+}
+
+.div_10 span {
+    margin-left: 145px;
+}
+
+.div_11 {
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 3px solid black;
+}
+
+.div_11 span {
+    margin-left: 90px;
+}
+
+.div_12 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+}
+
+.div_12 span {
+margin-left: 135px;
+}
+
+.div_13 {
+        border-bottom: 15px solid black;
+    }
+
+.div_14 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+}
+
+.div_14 span {
+    margin-left: 150px;
+}
+
+.div_15 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+}
+
+.div_15 span {
+margin-left: 160px;
+}
+
+.div_16 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+}
+
+.div_16 span {
+margin-left: 170px;
+}
+
+.div_17 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+}
+
+.div_17 span {
+margin-left: 205px;
+}
+
+
+
+
+
+
+
+
+
 
